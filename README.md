@@ -1,4 +1,6 @@
 # Prompter-glasses
+![project_poster](./assets/logo.png)
+
 ## 1. Сборка проекта
 
 ### 1.1 Железо
